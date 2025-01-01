@@ -1,0 +1,29 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  header {
+    background: linear-gradient(135deg, #1972d2, #f106ca);
+    color: white;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  
+  .card .card-body {
+    background: #f9f9f9;
+  }
+  
+  button:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+  }
+  
+  h1,
+  h4 {
+    font-weight: bold;
+  }
+  
