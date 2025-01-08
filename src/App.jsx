@@ -24,7 +24,7 @@ function App() {
   return (
     <div className="App bg-light">
       <header className="bg-primary text-white text-center py-4 shadow-sm">
-        <h1>Q&A Bot</h1>
+        <h1>Q & A Bot</h1>
         <p>Your AI-powered assistant</p>
       </header>
       <div className="container my-5">
